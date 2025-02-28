@@ -1,5 +1,5 @@
 # Fancy-Barcodes-2022
-A Java applet I created based on exercises in my Java course at Software University, used to scan the validity of a barcode format using regular expressions. 
+A Java applet I created based on an exercise in my Java course at Software University, used to scan the validity of a barcode format using regular expressions. 
 
 #Features
 1. The user inputs the number of barcodes to be checked.
